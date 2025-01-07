@@ -1,4 +1,4 @@
-# cluster-capi-infrastructure-openstack
+# cluster-api-infrastructure-openstack
 
 ## Description
 

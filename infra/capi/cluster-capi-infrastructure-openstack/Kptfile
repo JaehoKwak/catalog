@@ -1,7 +1,7 @@
 apiVersion: kpt.dev/v1
 kind: Kptfile
 metadata:
-  name: cluster-capi-infrastructure-openstack
+  name: cluster-api-infrastructure-openstack
   annotations:
     config.kubernetes.io/local-config: "true"
 info:
