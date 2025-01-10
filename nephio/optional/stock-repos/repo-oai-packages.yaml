@@ -10,7 +10,7 @@ spec:
   content: Package
   deployment: false
   git:
-    branch: v3.0.0
+    branch: R3
     directory: /workloads/oai
-    repo: https://github.com/nephio-project/catalog.git
+    repo: https://github.com/JaehoKwak/catalog.git
   type: git
