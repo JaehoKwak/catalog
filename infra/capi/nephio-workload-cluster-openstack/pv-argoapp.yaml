@@ -8,7 +8,7 @@ spec:
   upstream:
     package: argoapp
     repo: catalog-nephio-optional
-    revision: v2.0.0
+    revision: v3.0.1
   downstream:
     package: example-argoapp
     repo: mgmt-staging
