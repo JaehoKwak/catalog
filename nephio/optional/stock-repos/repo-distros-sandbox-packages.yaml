@@ -10,7 +10,7 @@ spec:
   content: Package
   deployment: false
   git:
-    branch: R3
+    branch: v3.0.1
     directory: /distros/sandbox
     repo: https://github.com/JaehoKwak/catalog.git
   type: git
